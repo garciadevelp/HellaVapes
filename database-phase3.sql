@@ -1,5 +1,5 @@
 /********************************************************
-* This script creates the database named hellavapes 
+* This script creates the database named hellavapes 2
 *********************************************************/
 
 -- create the tables for the database
